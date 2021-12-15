@@ -10,3 +10,4 @@ vender/
 log/
 */node_modules/*
 */pancake-lock.json
+*/env.js
